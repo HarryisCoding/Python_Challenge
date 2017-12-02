@@ -1,6 +1,6 @@
 import csv
 import numpy as np
-import statistics as s
+
 total_months = []
 total_months1 = []
 total_months2 = []
