@@ -1,0 +1,5 @@
+The total number of months included in the dataset is 127
+The total amount of revenue gained over the entire period is $55945323
+The average change in revenue between months over the entire period is $10404.9055118
+The greatest increase in revenue (date and amount) over the entire periodFeb-16($1837235)
+The greatest decrease in revenue (date and amount) over the entire periodJun-2014($-1947745)
